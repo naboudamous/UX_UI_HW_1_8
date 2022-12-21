@@ -22,6 +22,14 @@ li{
     display: inline-block;
 }
 
+.parentContainer{
+
+}
+
+.flexChild{
+    
+}
+
 .parentContainer {
     display: flex;
     flex-direction: row;
@@ -37,4 +45,7 @@ li{
     justify-content: space-evenly;
     border-radius: 2%;
     background-color: blueviolet;
+    padding: 25px;
+    margin: 5px;
+    height: auto;
 }
