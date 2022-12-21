@@ -1,35 +1,6 @@
 
 /* index-styles */
 
-#logoo{
-    width: 80px;
-    padding: 3%;
-}
-
- .navbar{
-    width: 50%;
-    margin-left: auto;
-    display: inline-block;
-}
-
-li{
-    display: inline;
-    margin-right: 20px;
-    font-size: 20px;
-}
-
-.navbar li{
-    display: inline-block;
-}
-
-.parentContainer{
-
-}
-
-.flexChild{
-    
-}
-
 .parentContainer {
     display: flex;
     flex-direction: row;
@@ -48,4 +19,24 @@ li{
     padding: 25px;
     margin: 5px;
     height: auto;
+}
+#logoo{
+    width: 60px;
+    padding: 3%;
+}
+
+ .navbar{
+    width: 50%;
+    margin-left: auto;
+    display: inline-block;
+}
+
+li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.navbar li{
+    display: inline-block;
 }
